@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Liu.png"
-  name             : "Your Sidebar Name"
+  avatar           : "jpgg.PNG"
+  name             : "Qianchen Liu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen, China"
